@@ -68,8 +68,8 @@ Estudante de Análise e Desenvolvimento de Sistemas
 
 ---
 ## 💻 Projetos
-- [Portfolio](personal-portfolio-brunopalma.vercel.app/) – Meu site pessoal
-- [User Management](github.com/BrunoDiPalma/user-management-system) – CRUD full-stack
+- [Portfolio](https://personal-portfolio-brunopalma.vercel.app/) – Meu site pessoal
+- [User Management](https://github.com/BrunoDiPalma/user-management-system) – CRUD full-stack
 ---
 ## 📩 Contato
 - Email: brunocamargo2010@live.com
