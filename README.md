@@ -77,7 +77,8 @@ Estudante de Análise e Desenvolvimento de Sistemas
   Sistema de gerenciamento de usuários (CRUD) com autenticação.  
   Tecnologias: Node.js, Express, MySQL, React, JWT e bcrypt.
 
-- 🎬 [FilmTrack] 🔗 [Live](https://filmtrack-alpha.vercel.app/) | 💻 [Código](https://github.com/BrunoDiPalma/filmtrack)  
+- 🎬 FilmTrack
+- 🔗 [Live](https://filmtrack-alpha.vercel.app/) | 💻 [Código](https://github.com/BrunoDiPalma/filmtrack)  
   Aplicação fullstack para busca de filmes com consumo de API e gerenciamento de watchlist.  
   Tecnologias: React, Node.js e Express.  
   Deploy: Vercel (frontend) e Railway (backend + banco de dados).
