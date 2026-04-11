@@ -68,8 +68,19 @@ Estudante de Análise e Desenvolvimento de Sistemas
 
 ---
 ## 💻 Projetos
-- [Portfolio](https://personal-portfolio-brunopalma.vercel.app/) – Meu site pessoal
-- [User Management](https://github.com/BrunoDiPalma/user-management-system) – CRUD full-stack
+
+- 🌐 [Portfolio](https://personal-portfolio-brunopalma.vercel.app/)  
+  Site pessoal com apresentação dos projetos e habilidades.  
+  Tecnologias: React, Vite e CSS.
+
+- 👤 [User Management](https://github.com/BrunoDiPalma/user-management-system)  
+  Sistema de gerenciamento de usuários (CRUD) com autenticação.  
+  Tecnologias: Node.js, Express, MySQL, React, JWT e bcrypt.
+
+- 🎬 [FilmTrack] 🔗 [Live](https://filmtrack-alpha.vercel.app/) | 💻 [Código](https://github.com/BrunoDiPalma/filmtrack)  
+  Aplicação fullstack para busca de filmes com consumo de API e gerenciamento de watchlist.  
+  Tecnologias: React, Node.js e Express.  
+  Deploy: Vercel (frontend) e Railway (backend + banco de dados).
 ---
 ## 📩 Contato
 - Email: brunocamargo2010@live.com
