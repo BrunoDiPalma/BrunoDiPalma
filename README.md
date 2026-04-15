@@ -82,6 +82,11 @@ Estudante de Análise e Desenvolvimento de Sistemas
   Aplicação fullstack para busca de filmes com consumo de API e gerenciamento de watchlist.  
   Tecnologias: React, Node.js e Express.  
   Deploy: Vercel (frontend) e Railway (backend + banco de dados).
+
+  - 📝 [To-Do List](https://github.com/BrunoDiPalma/recap-js)
+  Um projeto simples de lista de tarefas (To-Do List). O objetivo foi praticar manipulação do DOM, eventos e uso do LocalStorage para persistência de dados.   
+  Tecnologias: HTML5, CSS3, JavaScript e LocalStorage.
+
 ---
 ## 📩 Contato
 - Email: brunocamargo2010@live.com
