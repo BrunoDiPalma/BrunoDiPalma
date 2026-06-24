@@ -1,11 +1,12 @@
 # Olá, eu sou Bruno 👨‍💻👋
 
-Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Full Stack
+Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor FullStack em formação, com foco em React, TypeScript e Node.js.
 
 ## 🛠 Skills
 
-- **Front-End:** CSS, HTML, JavaScript/ TypeScript, React.js
-- **Back-End:** Node.js, MySQL, Express
+- **Front-End:** React, TypeScript, JavaScript, HTML5, CSS3
+- **Back-End:** Node.js, Express, Prisma
+- **Banco de dados:** MySQL, SQLite
 - **Ferramentas:** Git, GitHub, Postman
 - **Conceitos:** API Rest, CRUD, autenticação JWT, bcrypt
 
@@ -24,28 +25,27 @@ Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Full Stack
 
 ## 💻 Projetos
 
-- 🌐 [Portfolio](https://personal-portfolio-brunopalma.vercel.app/)  
-  Site pessoal com apresentação dos projetos e habilidades.  
-  Tecnologias: React, Vite e CSS.
-
-- 👤 [Auth System API (em andamento)](https://github.com/BrunoDiPalma/auth-system-api)  
-  API fullstack com autenticação JWT e CRUD completo de usuários, incluindo registro, login e proteção de rotas.  
-  Tecnologias: Node.js, Express, TypeScript e MySQL (Prisma ORM).  
+- 👤 Auth System
+  🔗 [Live](https://auth-system-api-one.vercel.app/) | 💻 [Código](https://github.com/BrunoDiPalma/auth-system-api)
+  Sistema FullStack de autenticação e gerenciamento de tarefas com cadastro de usuários, login seguro, proteção de rotas e persistência de dados.
+  Tecnologias: Node.js, Express, TypeScript, React e SQLite (Prisma ORM).  
   Segurança: Autenticação via JWT e hash de senhas com bcrypt.
+
+- 🌐 Portfolio
+  🔗 [Live](https://personal-portfolio-brunopalma.vercel.app/) | 💻 [Código](https://github.com/BrunoDiPalma/Personal-Portfolio)
+  Site pessoal desenvolvido para apresentar meus projetos, tecnologias e trajetória na área de desenvolvimento de software.  
+  Tecnologias: React, Vite e CSS.
 
 - 🎬 FilmTrack
   🔗 [Live](https://filmtrack-alpha.vercel.app/) | 💻 [Código](https://github.com/BrunoDiPalma/filmtrack)  
-  Aplicação fullstack para busca de filmes com consumo de API e gerenciamento de watchlist.  
+  Aplicação FullStack para pesquisa de filmes e gerenciamento de watchlist, consumindo APIs externas e armazenando dados do usuário.
   Tecnologias: React, Node.js e Express.  
   Deploy: Vercel (frontend) e Railway (backend + banco de dados).
 
-- 👤 [User Management](https://github.com/BrunoDiPalma/user-management-system)  
-  Sistema de gerenciamento de usuários (CRUD) com autenticação.  
+- 👤 User Management
+  💻 [Código](https://github.com/BrunoDiPalma/user-management-system)
+  Aplicação Full Stack para gerenciamento de usuários com operações CRUD e autenticação baseada em JWT.  
   Tecnologias: Node.js, Express, MySQL, React, JWT e bcrypt.
-
-- 📝 [To-Do List](https://github.com/BrunoDiPalma/recap-js)  
-  Um projeto simples de lista de tarefas (To-Do List). O objetivo foi praticar manipulação do DOM, eventos e uso do LocalStorage para persistência de dados.  
-  Tecnologias: HTML5, CSS3, JavaScript e LocalStorage.
 
 ---
 
