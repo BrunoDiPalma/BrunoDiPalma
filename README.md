@@ -25,27 +25,27 @@ Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor FullStack em
 
 ## 💻 Projetos
 
-- 👤 Auth System
-  🔗 [Live](https://auth-system-api-one.vercel.app/) | 💻 [Código](https://github.com/BrunoDiPalma/auth-system-api)
-  Sistema FullStack de autenticação e gerenciamento de tarefas com cadastro de usuários, login seguro, proteção de rotas e persistência de dados.
-  Tecnologias: Node.js, Express, TypeScript, React e SQLite (Prisma ORM).  
+- 👤 Auth System  
+🔗 [Live](https://auth-system-api-one.vercel.app/) | 💻 [Código](https://github.com/BrunoDiPalma/auth-system-api)  
+Sistema FullStack de autenticação e gerenciamento de tarefas com cadastro de usuários, login seguro, proteção de rotas e persistência de dados.  
+Tecnologias: Node.js, Express, TypeScript, React e SQLite (Prisma ORM).  
   Segurança: Autenticação via JWT e hash de senhas com bcrypt.
 
-- 🌐 Portfolio
-  🔗 [Live](https://personal-portfolio-brunopalma.vercel.app/) | 💻 [Código](https://github.com/BrunoDiPalma/Personal-Portfolio)
-  Site pessoal desenvolvido para apresentar meus projetos, tecnologias e trajetória na área de desenvolvimento de software.  
-  Tecnologias: React, Vite e CSS.
+- 🌐 Portfolio  
+🔗 [Live](https://personal-portfolio-brunopalma.vercel.app/) | 💻 [Código](https://github.com/BrunoDiPalma/Personal-Portfolio)  
+Site pessoal desenvolvido para apresentar meus projetos, tecnologias e trajetória na área de desenvolvimento de software.  
+Tecnologias: React, Vite e CSS.
 
-- 🎬 FilmTrack
-  🔗 [Live](https://filmtrack-alpha.vercel.app/) | 💻 [Código](https://github.com/BrunoDiPalma/filmtrack)  
-  Aplicação FullStack para pesquisa de filmes e gerenciamento de watchlist, consumindo APIs externas e armazenando dados do usuário.
-  Tecnologias: React, Node.js e Express.  
-  Deploy: Vercel (frontend) e Railway (backend + banco de dados).
+- 🎬 FilmTrack  
+🔗 [Live](https://filmtrack-alpha.vercel.app/) | 💻 [Código](https://github.com/BrunoDiPalma/filmtrack)  
+Aplicação FullStack para pesquisa de filmes e gerenciamento de watchlist, consumindo APIs externas e armazenando dados do usuário.  
+Tecnologias: React, Node.js e Express.  
+Deploy: Vercel (frontend) e Railway (backend + banco de dados).
 
-- 👤 User Management
-  💻 [Código](https://github.com/BrunoDiPalma/user-management-system)
-  Aplicação Full Stack para gerenciamento de usuários com operações CRUD e autenticação baseada em JWT.  
-  Tecnologias: Node.js, Express, MySQL, React, JWT e bcrypt.
+- 👤 User Management  
+💻 [Código](https://github.com/BrunoDiPalma/user-management-system)  
+Aplicação Full Stack para gerenciamento de usuários com operações CRUD e autenticação baseada em JWT.  
+Tecnologias: Node.js, Express, MySQL, React, JWT e bcrypt.
 
 ---
 
