@@ -1,6 +1,6 @@
 # Olá, eu sou Bruno 👨‍💻👋
 
-Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor FullStack em formação, com foco em React, TypeScript e Node.js.
+Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Full Stack em formação, com foco em React, TypeScript e Node.js.
 
 ## 🛠 Skills
 
@@ -27,7 +27,7 @@ Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor FullStack em
 
 - 👤 Auth System  
 🔗 [Live](https://auth-system-api-one.vercel.app/) | 💻 [Código](https://github.com/BrunoDiPalma/auth-system-api)  
-Sistema FullStack de autenticação e gerenciamento de tarefas com cadastro de usuários, login seguro, proteção de rotas e persistência de dados.  
+Sistema full stack de autenticação e gerenciamento de tarefas com cadastro de usuários, login seguro, proteção de rotas e persistência de dados.  
 Tecnologias: Node.js, Express, TypeScript, React e SQLite (Prisma ORM).  
   Segurança: Autenticação via JWT e hash de senhas com bcrypt.
 
@@ -38,13 +38,13 @@ Tecnologias: React, Vite e CSS.
 
 - 🎬 FilmTrack  
 🔗 [Live](https://filmtrack-alpha.vercel.app/) | 💻 [Código](https://github.com/BrunoDiPalma/filmtrack)  
-Aplicação FullStack para pesquisa de filmes e gerenciamento de watchlist, consumindo APIs externas e armazenando dados do usuário.  
+Aplicação full stack para pesquisa de filmes e gerenciamento de watchlist, consumindo APIs externas e armazenando dados do usuário.  
 Tecnologias: React, Node.js e Express.  
 Deploy: Vercel (frontend) e Railway (backend + banco de dados).
 
 - 👤 User Management  
 💻 [Código](https://github.com/BrunoDiPalma/user-management-system)  
-Aplicação Full Stack para gerenciamento de usuários com operações CRUD e autenticação baseada em JWT.  
+Aplicação full stack para gerenciamento de usuários com operações CRUD e autenticação baseada em JWT.  
 Tecnologias: Node.js, Express, MySQL, React, JWT e bcrypt.
 
 ---
