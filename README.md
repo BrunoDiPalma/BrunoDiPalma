@@ -1,6 +1,6 @@
 # Olá, eu sou Bruno 👨‍💻👋
 
-Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Full Stack em formação, com foco em React, TypeScript e Node.js.
+Estudante de Ciência da Computação e desenvolvedor Full Stack em formação, com foco em React, TypeScript e Node.js.
 
 ## 🛠 Skills
 
